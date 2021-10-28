@@ -1,0 +1,1 @@
+url_list = ['https://www.amazon.in/s?k=shoe/', 'https://www.amazon.in/s?k=mobile/', 'https://www.amazon.in/s?k=trimmer/']
