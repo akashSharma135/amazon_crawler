@@ -11,7 +11,6 @@ class AmazonScrpePipeline:
         
         
     def process_item(self, item, spider):
-        pass
         self.collection.insert(dict({
             'title': item['title'],
             'image': item['image'],
